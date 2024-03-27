@@ -51,7 +51,7 @@ Installation
 Usage
 =====
 
-.. autofunction:: strprofiler.strprofiler
+.. autofunction:: strprofiler.strprofiler.strprofiler
 
 Input Files(s)
 ==============
@@ -210,7 +210,7 @@ Reference
 =========
 
 If you use **strprofiler** in your research, please cite the following:
-Jared Andrews, & Sam Culley. (2022). j-andrews7/strprofiler: v0.1.1 (v0.1.1). Zenodo. https://doi.org/10.5281/zenodo.7348387
+Jared Andrews, Mike Lloyd, & Sam Culley. (2024). j-andrews7/strprofiler: v0.2.0 (v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.7348386
 
 Indices and tables
 ==================
